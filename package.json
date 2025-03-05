@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "devDependencies": {},
+  "type": "module",
   "scripts": {
     "start": "next start",
     "dev": "next dev",
